@@ -1,3 +1,11 @@
+#Arquivos de configuração
+render_hcce.sh
+hcc.yam
+cbb.sh
+cbb.yam
+*.yaml
+*.pem
+
 # Diretórios e arquivos de dependências
 node_modules/
 npm-debug.log
@@ -89,10 +97,3 @@ eslint-report.html
 # Ignore arquivos do próprio Git
 .git/
 
-#Arquivos de configuração
-render_hcce.sh
-hcc.yam
-cbb.sh
-cbb.yam
-*.yaml
-*.pem
