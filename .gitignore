@@ -1,0 +1,96 @@
+# Diretórios e arquivos de dependências
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Logs
+logs/
+*.log
+logs/*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Diretórios de build
+build/
+dist/
+
+# Arquivos de ambiente local
+.env
+.env.local
+.env.*.local
+.envrc
+.envrc.local
+
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de cache
+.cache/
+.tmp/
+.temp/
+.history/
+
+# Diretórios temporários
+tmp/
+temp/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Arquivos de instalação
+*.tgz
+
+# Arquivos de compilação
+*.out
+*.log
+
+# Arquivos de configuração específicos do editor
+.vscode/
+.idea/
+
+# Ignorar chaves SSH e credenciais sensíveis
+*.pem
+*.key
+*.crt
+*.pfx
+
+# Arquivos de lock do sistema
+.lock-wscript
+.lock-sth
+.lock-js
+
+# Arquivos gerados automaticamente
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+
+# Diretórios do projeto
+.projen/
+.jest/
+eslint-report.html
+.v8coverage/
+.jest-test-results.json
+.wskprops
+
+# Ignore arquivos do próprio Git
+.git/
+
+#Arquivos de configuração
+render_hcce.sh
+hcc.yam
+cbb.sh
+cbb.yam
