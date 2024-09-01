@@ -97,3 +97,4 @@ eslint-report.html
 # Ignore arquivos do próprio Git
 .git/
 
+render_hcce.sh
