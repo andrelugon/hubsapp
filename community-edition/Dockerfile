@@ -7,6 +7,6 @@ WORKDIR /app
 COPY . .
 RUN chmod +x /app/render_hcce.sh
 
-RUN npm install pem-jwk -g(teste)
+RUN npm install pem-jwk -g kkk
 
 CMD [ "/bin/bash", "-c", "/app/render_hcce.sh" ]
