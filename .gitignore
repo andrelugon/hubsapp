@@ -94,3 +94,5 @@ render_hcce.sh
 hcc.yam
 cbb.sh
 cbb.yam
+*.yaml
+*.pem
